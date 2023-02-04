@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(203, 239, 238);
+}
+h1{
+    color: rgb(41, 41, 244);
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: rgb(60, 59, 58);
+    font-family: 'Roboto', sans-serif;
+}
+
+.bx{
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+ol{
+    font-family: 'Roboto', sans-serif;
+}
